@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    gap: 70px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 150px;
+    color: white;
+   
+}
+
+.container{
+    background-color: black;
+    height: 100vh;
+}

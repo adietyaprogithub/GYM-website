@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.imgr{
+
+    height: 300px;
+    width: 200px;
+}
